@@ -1,0 +1,33 @@
+https://dibyajyoti630.github.io/*
+  X-Robots-Tag: noindex
+
+https://dibyajyoti630.github.io/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Cache static assets for 1 year (Performance & SEO Server Score)
+https://dibyajyoti630.github.io/*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+https://dibyajyoti630.github.io/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+https://dibyajyoti630.github.io/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+
+https://dibyajyoti630.github.io/*.png
+  Cache-Control: public, max-age=31536000, immutable
+
+https://dibyajyoti630.github.io/*.ktx2
+  Cache-Control: public, max-age=31536000, immutable
+
+https://dibyajyoti630.github.io/*.glb
+  Cache-Control: public, max-age=31536000, immutable
+
+https://dibyajyoti630.github.io/*.mp3
+  Cache-Control: public, max-age=31536000, immutable
+
+https://dibyajyoti630.github.io/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
